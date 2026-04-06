@@ -56,6 +56,7 @@ public class UseCase2TrainConsistMgmt {
 
         // ---- Final State ----
         System.out.println("\nFinal Train Passenger Consist:");
+
         System.out.println(passengerBogies);
 
         System.out.println("\nUC2 operations completed successfully...");
