@@ -28,9 +28,9 @@ public class UseCase2TrainConsistMgmt {
 
     public static void main(String[] args) {
 
-        System.out.println("========================================");
+        System.out.println("=========================================");
         System.out.println(" UC2 - Add Passenger Bogies to Train ");
-        System.out.println("========================================\n");
+        System.out.println("=========================================\n");
 
         // Create an ArrayList to hold passenger bogies
         List<String> passengerBogies = new ArrayList<>();
